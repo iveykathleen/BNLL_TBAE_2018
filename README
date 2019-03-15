@@ -1,0 +1,4 @@
+Are we capable of predicting lizard location/activity based on field active body temperature alone? Data file contains operative temperature
+model temperatures in various microhabitats (shrub, open, burrow), field active body temperatures, observed locations of lizards, and predicted
+locations of lizards. Field active body temperature was plotted against OTM temperature and exact location of each lizard was blindly predicted 
+based on what temperature the lizard was at any given time in comparison to the available microhabitat temperatures.
